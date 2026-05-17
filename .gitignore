@@ -5,6 +5,7 @@ Gemfile.lock
 .idea
 .gradle
 build
+bin/
 /lib/domains/stoplist-old.txt
 /lib/domains/stoplistsort.py
 sort_by_TLD.sh
